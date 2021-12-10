@@ -1,5 +1,5 @@
 # Tableau-work
-Examples of my work in Tableau
+Examples of my work in Tableau Public
 
 My profile is at
 
